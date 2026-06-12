@@ -99,8 +99,8 @@ O protótipo de alta fidelidade destaca abordagens de UX/UI como o "Dark Mode" e
 
 ## 👨‍💻 Equipe
 * Lívia Ghirardi do Amaral
-* Rafaela da Paz
-* Tuanny Tomazelli
+* Rafaela Silva da Paz
+* Tuanny  Cristina Thomazelli
 
 ## 📚 Contexto Acadêmico
 Projeto Integrador desenvolvido sob o formato interdisciplinar para o curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas do SENAI (Escola e Faculdade de Tecnologia SENAI Gaspar Ricardo Junior - Sorocaba/SP).
